@@ -23,9 +23,9 @@ CNN-Convolutional neural networks
 * need to resize images to 28*28
 
 <p>
-CNN scans a 256 X 256 image chunk by chunk (say a 5 X 5 window) The window usually moves from left to right and top to bottom. The <b> <u> Stride Length </u> </b> determines how quickly the windows moves over the image. For example, a stride length of 2 means the window moves by 2 pixels at a time until the whole image is scanned.
+CNN scans a 256 X 256 image chunk by chunk (say a 5 X 5 window) The window usually moves from left to right and top to bottom. The <b> <ins> Stride Length </ins> </b> determines how quickly the windows moves over the image. For example, a stride length of 2 means the window moves by 2 pixels at a time until the whole image is scanned.
   </p>
   
   <p>
-  <b> <u> Convolution </u> </b> is a weighted sum of pixel values of the image
+  <b> <ins> Convolution </ins> </b> is a weighted sum of pixel values of the image
   </p>
